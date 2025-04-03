@@ -1,0 +1,1 @@
+This project is created using HTML, CSS and JavaScript using PHP as the backend and mySQL as database.This project shows various locations that person can book while exploring the city. There are multiple options for one city which gives user options to select and book his/her place of residence by their choice.
